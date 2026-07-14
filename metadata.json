@@ -1,0 +1,6 @@
+{
+  "name": "Bhanu - 3D Artist Portfolio",
+  "description": "A premium, cinematic portfolio website for professional 3D Artist Bhanu, featuring interactive 3D designs, bento grids, work filters, custom animations, and clean dark typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
